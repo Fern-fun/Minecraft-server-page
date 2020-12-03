@@ -104,12 +104,13 @@ if($status->debug->ping == "true"){
 }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css" media="(min-width: 601px)">
+    <link rel="stylesheet" href="css/mobile.css" media="(max-width: 600px)">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="js/app.js"></script>
     <title>Fern.fun Minecraft</title>
@@ -117,6 +118,11 @@ if($status->debug->ping == "true"){
 
 <body>
     <nav class="navigation">
+    <button class="hamburger">
+            <div class="line0" id="line1"></div>
+            <div class="line0" id="line2"></div>
+            <div class="line0" id="line3"></div>
+        </button>
         <ul>
             <li><a href="#Hero" class="active">Home<div class="line"></div></a></li>
             <li><a href="#regulamin">Regulamin<div class="line"></div></a></li>
@@ -128,7 +134,7 @@ if($status->debug->ping == "true"){
     <section class="Hero parallax" id="Hero">
         <div class="Hero_header">
             <h2>Witaj na oficjalnej stronie serwera</h2>
-            <h1>Fern.fun<sub id="sub"><?php echo $onLine; ?></sub></h1>
+            <h1 id="header">Fern.fun<sub id="sub"><?php echo $onLine; ?></sub></h1>
             <h2>Zapraszamy do wspólnej gry!</h2>
         </div>
     </section>
