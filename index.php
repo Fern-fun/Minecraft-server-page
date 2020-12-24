@@ -128,7 +128,7 @@ if($status->debug->ping == "true"){
             <li><a href="#regulamin">Regulamin<div class="line"></div></a></li>
             <li><a href="#statystyki">Statystyki<div class="line"></div></a></li>
             <li><a href="#mapa">Mapa serwera<div class="line"></div></a></li>
-            <li><a href="https://www.sklepmc.pl/shop/xcnzAp2J/server/1356" target="_blank">Sklep<div class="line"></div></a></li>
+            <li><a href="#" target="_blank">Sklep<div class="line"></div></a></li> <!--href="https://www.sklepmc.pl/shop/xcnzAp2J/server/1356"-->
         </ul>
     </nav>
     <section class="Hero parallax" id="Hero">
