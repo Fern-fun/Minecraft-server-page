@@ -100,11 +100,3 @@ Add additional notes about how to deploy this on a live system. -->
 See also the list of [contributors](https://github.com/fern-fun/Minecraft-server-page/contributors) who participated in this project.
 
 <!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- References -->
-# Minecraft-server-page
-## Required 
-* [Stats](https://www.spigotmc.org/resources/statz.25969/)
-[By Fern.fun](http://fern.fun)
