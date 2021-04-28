@@ -8,7 +8,7 @@
 
 [![GitHub Issues](https://img.shields.io/github/issues/fern-fun/Minecraft-server-page.svg)](https://github.com/fern-fun/Minecraft-server-page/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/fern-fun/Minecraft-server-page.svg)](https://github.com/fern-fun/Minecraft-server-page/pulls)
-[![License](https://img.shields.io/github/license/fern-fun/Fern.fun-Server.svg)](/LICENSE)
+[![License](https://img.shields.io/github/license/fern-fun/Minecraft-server-page.svg)](/LICENSE)
 
 </div>
 
@@ -104,9 +104,7 @@ See also the list of [contributors](https://github.com/fern-fun/Fern.fun-Server/
 - Hat tip to anyone whose code was used
 - Inspiration
 - References -->
-=======
 # Minecraft-server-page
 ## Required 
 * [Stats](https://www.spigotmc.org/resources/statz.25969/)
 [By Fern.fun](http://fern.fun)
->>>>>>> 71fa838738803fce03d86d7a92dc97ac6973ace3
