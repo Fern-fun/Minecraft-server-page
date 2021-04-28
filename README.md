@@ -97,7 +97,7 @@ Add additional notes about how to deploy this on a live system. -->
 - [@Shaking-Donut](https://github.com/shaking-donut) - Idea & Frontend
 - [@MrJacob12](https://github.com/mrjacob12) - Backend
 
-See also the list of [contributors](https://github.com/fern-fun/Fern.fun-Server/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/fern-fun/Minecraft-server-page/contributors) who participated in this project.
 
 <!-- ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
